@@ -1,0 +1,14 @@
+form {
+    margin: 0 auto;
+    background-color: orange;
+    align-self: center;
+}
+li {
+    font-size: 24px;
+
+}
+input, button {
+    width: auto;
+    height: 36px;
+    font-size: 24px;
+}
